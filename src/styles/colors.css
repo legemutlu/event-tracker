@@ -1,0 +1,23 @@
+:root{
+    --color-base-50: 248 250 252;
+    --color-base-100: 241 245 249;
+    --color-base-200: 226 232 240;
+    --color-base-300: 203 213 225;
+    --color-base-400: 148 163 184;
+    --color-base-500: 100 116 139;
+    --color-base-600: 71 85 105;
+    --color-base-700: 51 65 85;
+    --color-base-800: 57 62 70;
+    --color-base-900: 34 40 49;
+
+    --color-primary-50: 239 246 255;
+    --color-primary-100: 219 234 254;
+    --color-primary-200: 191 219 254;
+    --color-primary-300: 147 197 253;
+    --color-primary-400: 96 165 250;
+    --color-primary-500: 59 130 246;
+    --color-primary-600: 37 99 235;
+    --color-primary-700: 29 78 216;
+    --color-primary-800: 30 64 175;
+    --color-primary-900: 30 58 138;
+}

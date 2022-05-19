@@ -1,0 +1,30 @@
+@import './colors.css';
+@import './tailwind.css';
+
+:root {
+    font-family: 'Readex Pro', sans-serif;
+    --column-width: 42rem;
+    --column-margin-top: 4rem;
+}
+
+body {
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
