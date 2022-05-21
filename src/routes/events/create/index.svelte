@@ -17,7 +17,7 @@
     <title>Create Event</title>
 </svelte:head>
 
-<PageHeader header="Create Event"/>
+<PageHeader header="Create Event" secondaryHeader=""/>
 
 <section class="container pt-8 pb-8 lg:pt-24 lg:pb-44">
     <div class="grid grid-flow-row-dense grid-rows-3 grid-cols-3 gap-8">
